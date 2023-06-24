@@ -1,0 +1,52 @@
+const interruptor1 = 0; 
+const interruptor2 = 0;
+const interruptor3 = 0;
+
+
+//Caja 1
+/*
+if(interruptor1=== 1){
+    let foco= "encendido";
+    console.log("El foco esta " + foco);
+}
+else if(interruptor2=== 1){
+    let foco= "encendido";
+    console.log("El foco esta " + foco);
+}
+else if(interruptor3=== 1){
+    let foco= "encendido";
+    console.log("El foco esta " + foco);
+}
+*/
+
+//Caja 2
+/*
+if(interruptor1===1&&interruptor2===1&&interruptor3===1){
+    let foco= "encendido";
+    console.log("El foco esta " + foco);
+}
+else{
+    let foco= "apagado";
+    console.log("El foco esta " + foco);
+}
+*/
+
+//Caja 3
+/*
+if(interruptor1=== 1 && interruptor2 === 1){
+    let foco= "encendido";
+    console.log("El foco esta " + foco);
+}
+else if(interruptor2=== 1 && interruptor3 === 1){
+    let foco= "encendido";
+    console.log("El foco esta " + foco);
+}
+else if(interruptor3=== 1 && interruptor1 === 1){
+    let foco= "encendido";
+    console.log("El foco esta " + foco);
+}
+else {
+    let foco= "apagado";
+    console.log("El foco esta " + foco);
+}
+*/
