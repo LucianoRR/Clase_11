@@ -50,3 +50,14 @@ else {
     console.log("El foco esta " + foco);
 }
 */
+let variable1=prompt("ingrese un numero: ")
+
+if (variable1>0){
+    console.log("El numero es positivo")
+}
+else if (variable1<0){
+    console.log("El numero es negativo")
+}
+else {
+    console.log("El numero es cero")
+}
